@@ -40,10 +40,7 @@ Players will guide our brave hero through fast-paced levels, avoiding traps, def
 - Achievements and leaderboards
 
 ## Contributing
-We welcome contributions from the community! Feel free to fork the repository, create a new branch, and submit a pull request with your changes. Please ensure your code follows the existing style and includes relevant tests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+We welcome contributions from the community! You can fix the repository, create a new branch, and submit a pull request with your changes. Please ensure your code follows the existing style and includes relevant tests.
 
 ## Contact
-For questions, feedback, or suggestions, feel free to contact us at: workwithnikhilawasthi@gmail.com.
+For questions, feedback, or suggestions, don't hesitate to get in touch with us at: workwithnikhilawasthi@gmail.com.
